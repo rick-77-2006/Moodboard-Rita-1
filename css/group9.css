@@ -1,0 +1,87 @@
+.group9-container {
+  min-height: 100vh;
+}
+.group9-group9 {
+  width: 20.000158309936523px;
+  height: 587px;
+  display: flex;
+  padding: 0;
+  position: relative;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.group9-text {
+  top: 0.000004371138857095502px;
+  left: 20.00013542175293px;
+  color: rgba(31, 40, 57, 1);
+  height: auto;
+  position: absolute;
+  font-size: 20.335561752319336px;
+  align-self: auto;
+  font-style: Light;
+  text-align: right;
+  font-family: Neue Machina;
+  font-weight: 300;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.group9-text2 {
+  top: 173px;
+  left: 20.0001220703125px;
+  color: rgba(31, 40, 57, 1);
+  height: auto;
+  position: absolute;
+  font-size: 20.335561752319336px;
+  align-self: auto;
+  font-style: Light;
+  text-align: right;
+  font-family: Neue Machina;
+  font-weight: 300;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.group9-text4 {
+  top: 331px;
+  left: 20.0001220703125px;
+  color: rgba(31, 40, 57, 1);
+  height: auto;
+  position: absolute;
+  font-size: 20.335561752319336px;
+  align-self: auto;
+  font-style: Light;
+  text-align: right;
+  font-family: Neue Machina;
+  font-weight: 300;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.group9-text6 {
+  top: 481px;
+  left: 20px;
+  color: rgba(31, 40, 57, 1);
+  height: auto;
+  position: absolute;
+  font-size: 20.335561752319336px;
+  align-self: auto;
+  font-style: Light;
+  text-align: right;
+  font-family: Neue Machina;
+  font-weight: 300;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}

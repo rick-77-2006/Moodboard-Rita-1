@@ -1,0 +1,13 @@
+.line2-container {
+  min-height: 100vh;
+}
+.line2-dummy-container {
+  width: 100%;
+  height: 900px;
+}
+.line2-line2 {
+  width: 6166px;
+  height: 0px;
+  opacity: 0.50;
+  position: relative;
+}

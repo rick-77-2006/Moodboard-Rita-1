@@ -1,0 +1,13 @@
+.rectangle8-container {
+  min-height: 100vh;
+}
+.rectangle8-dummy-container {
+  width: 100%;
+  height: 900px;
+}
+.rectangle8-rectangle8 {
+  width: 289px;
+  height: 285px;
+  position: relative;
+  border-color: transparent;
+}
