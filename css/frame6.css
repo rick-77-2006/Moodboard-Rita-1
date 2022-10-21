@@ -1,0 +1,23 @@
+.frame6-container {
+  min-height: 100vh;
+}
+.frame6-dummy-container {
+  width: 100%;
+  height: 900px;
+}
+.frame6-text {
+  color: rgba(31, 40, 57, 1);
+  width: 288px;
+  height: auto;
+  font-size: 20px;
+  align-self: auto;
+  font-style: ExtraLight;
+  text-align: left;
+  font-family: Manrope;
+  font-weight: 200;
+  line-height: 127.99999713897705%;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}

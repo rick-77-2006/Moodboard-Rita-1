@@ -1,0 +1,40 @@
+.group15-container {
+  min-height: 100vh;
+}
+.group15-group15 {
+  width: 272.1353759765625px;
+  height: 60.579750061035156px;
+  display: flex;
+  padding: 0;
+  position: relative;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: rgba(223, 216, 205, 1);
+}
+.group15-text {
+  top: 18.183135986328125px;
+  left: 57.65266799926758px;
+  color: rgba(31, 40, 57, 1);
+  width: 157px;
+  height: auto;
+  position: absolute;
+  font-size: 27px;
+  align-self: auto;
+  font-style: Light;
+  text-align: center;
+  font-family: Neue Machina;
+  font-weight: 300;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
